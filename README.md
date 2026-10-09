@@ -50,10 +50,10 @@ By combining these sources, the project seeks to explore the relationship betwee
 3. Dataset Creation — Ready  
    Building the initial integrated dataset containing the relevant student, school, teacher, socioeconomic, and academic information.
 
-4. Data Translation — In Progress  
+4. Data Translation — Ready  
    Translating the dataset from Spanish into English, including variable names, categories, labels, and relevant values.
 
-5. First EDA  
+5. First EDA  - In progess
    Exploring the initial dataset to understand the distribution of Saber 11 results and identify patterns, relationships, and potential data issues.
 
 6. Data Cleaning  
